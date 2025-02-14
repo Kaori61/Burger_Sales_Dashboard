@@ -1,6 +1,6 @@
 # Burger_Sales_Dashboard
 ## Project Objectives
-The dashboard provides a comprehensive overview of business performance and helps decision-makers to track total sales and profit across different countries, monitor customer engagement and satisfaction to improve service quality, analyse regional sales trends for strategic planning and identify key revenue drivers and areas for improvement.
+The dashboard provides a comprehensive overview of business performance and helps decision-makers track total sales and profit across different countries, monitor customer engagement and satisfaction to improve service quality, analyse regional sales trends for strategic planning and identify key revenue drivers and areas for improvement.
 
 ## Data used
 [Burger sales](https://www.careerprinciples.com/)
